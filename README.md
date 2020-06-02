@@ -5,9 +5,9 @@ Please use a GPU to run it in Colab.
 
 <html>
 <head>
-	<title>
-	</title>
-	<style>
+<title>
+</title>
+<style>
 	.boxes{
 	width:50%;
 	float:left;
